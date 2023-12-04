@@ -54,12 +54,11 @@ def assign_seats(attendees):
 check_attendee(booking_register, allowed_attendees) 
 
 
+
 # ## Password Generator
 
 # In[3]:
 
-
-import random
 import string
 
 def generate_password(length=15):

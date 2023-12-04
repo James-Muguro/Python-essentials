@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ## This program is for event management
-
-# In[2]:
-
-
 import random
 
 booking_register = [
